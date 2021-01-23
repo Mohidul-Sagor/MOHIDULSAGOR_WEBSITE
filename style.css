@@ -1,0 +1,257 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left:3%;
+    margin-right: 3%;
+    background-image: linear-gradient(rgb(150, 212, 231),#e9c1aa);
+}
+
+    /* First Header Navbar Section */
+
+.headerSection{
+    margin-right: 20px;
+    height: 40px;
+}
+.headerSection h4{
+    float: right;
+    padding-left: 30px;
+}
+  
+    /* Indroduction Sector */
+
+.introSection{
+    height: 400px;
+    margin-top: 5%;
+    background-color: rgb(223, 194, 194);
+}
+.half-width{
+    width: 40%;
+    margin-left: 2%;
+    padding-left: 2%;
+    float: left;
+    
+
+}
+.introSection img{
+    width: 70%;
+    padding-left:25%;
+    padding-top: 15%;
+}
+
+.introSection h1{
+    font-size: 250%;    
+}
+.introFirstDiv{
+    margin-top: 5%;
+}
+
+.nameDesign{
+    color: rgb(255, 99, 71);
+}
+
+.hireMeBtn{
+    border: 2px solid #ecdfb2;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg,#b46e1ef3,#637a11);
+}
+ /* Anchor For Every Anchor Tag */
+.Anchor{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+.aboutSection{
+    margin-top: 3%;
+    height: 400px;
+    background-color: rgb(215, 234, 236);
+}
+
+.aboutSection img{
+    width: 70%;
+    padding-top: 15%;
+}
+.aboutSecondDiv{
+    margin-top: 5%;
+
+}
+.cvDownloadBtn{
+    border: 2px solid #53ddd6;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg,#43aaa1f3,rgb(21, 117, 226));
+
+}
+
+
+    /*Latest Work Section*/
+
+.projectSection{
+    margin-top: 3%;
+    height: 500px;
+    background-color: rgba(241, 241, 241, 0.781);
+}
+.projectSection h1{
+    padding-top:5%;
+    text-align: center;
+}
+
+.sampleProjectDiv{
+    float: left;
+    height: 325px;
+    width: 25%;
+    box-shadow:10px 10px 30px grey;
+    margin: 2%;
+    text-align: center;
+    border-radius: 5px;
+    
+    
+
+}
+
+.sampleProjectDiv img{
+    width: 90%;
+    padding-left: 1.5%;
+    margin-top: 4px;
+}
+.projectSecondDiv{
+    padding-left: 140px;
+}
+
+    /* Chat Section */
+
+.chatSection{
+    width: 60%;
+    height: 250px;
+    background-image: url(images/shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 60%;
+    margin-left: 20%;
+    margin-top: 5%;
+
+}
+
+.chatSection h1{
+    color: rgb(215, 234, 236);
+    width: 40%;
+    padding-left: 5%;
+    padding-top: 6%;
+    float: left;
+}
+
+.chatSection button{
+    float: right;
+    border: 2px solid hsl(194, 67%, 53%);
+    border-radius: 5px;
+    padding: 15px 25px;
+    background-image: linear-gradient(45deg,#8d755af3,#798b0ef1);
+    margin-top: 8%;
+    margin-right: 8%;
+    color: white;
+    font-weight: 600;
+
+}
+
+
+/* Extra Section */
+
+.extra-section {
+	background-image: url("images/extra-image.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    margin-top: 3%;
+    
+}
+
+
+.extra-head{
+    font-size: 40px;
+
+}
+#service {
+    border-left: 7px solid;
+    border-top: 7px solid;
+	border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    background-color: white;
+    height: 350px;
+    object-position: center;
+    align-items: center;
+    
+}
+#query{
+    border-right: 7px solid;
+    border-bottom: 7px solid;
+	border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    background-color: white;
+    height: 350px;
+    
+}
+
+.extra-section div {
+	box-shadow: 5px 7px 40px gray;
+    height: 80%;}
+    
+.extra-half-width{
+    width: 40%;
+    float: left;
+    margin-left:3%;
+    padding: 2%;
+    margin-top: 6.5%;
+    
+}
+.service-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 115px;
+    margin-top: 3%;
+    color: white;
+    font-weight: 700;
+    font-size: medium;
+    
+}
+  
+#your-email{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  #your-message{
+    width: 100%;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+
+  .form-submit{
+    text-decoration: none;
+    background-color: green;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 185px;
+    margin-top: 1%;
+    color: white;
+    font-weight: 700;
+    font-size: medium;
+  }
+
+/* Footer Section*/
+.footerSection{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.footerSection img{
+    width: 3%;
+}
