@@ -34,7 +34,7 @@ body{
 .introSection img{
     width: 70%;
     padding-left:25%;
-    padding-top: 15%;
+    padding-top: 5%;
 }
 
 .introSection h1{
@@ -68,7 +68,7 @@ body{
 
 .aboutSection img{
     width: 70%;
-    padding-top: 15%;
+    padding-top: 10%;
 }
 .aboutSecondDiv{
     margin-top: 5%;
@@ -174,9 +174,10 @@ body{
 	border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
     background-color: white;
-    height: 350px;
+    height: 315px;
     object-position: center;
     align-items: center;
+    padding-bottom: 5%;
     
 }
 #query{
@@ -198,7 +199,7 @@ body{
     float: left;
     margin-left:3%;
     padding: 2%;
-    margin-top: 6.5%;
+    margin-top: 3%;
     
 }
 .service-button{
@@ -206,8 +207,8 @@ body{
     background-image: linear-gradient(45deg, lightsalmon,tomato);
     padding: 10px 20px;
     border-radius: 5px;
-    margin-left: 115px;
-    margin-top: 3%;
+    margin-left: 30%;
+    margin-top: 1%;
     color: white;
     font-weight: 700;
     font-size: medium;
